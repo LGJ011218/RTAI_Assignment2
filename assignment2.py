@@ -53,3 +53,4 @@ for i, sample in enumerate(input_data):
         index_list.append(i)
 
 print(index_list)
+print(len(index_list))
